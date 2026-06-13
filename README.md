@@ -45,5 +45,9 @@ I never made a rack application before today. I can now appreciate frameworks li
 Rack is powerful and insanely modular. I'll try to look out for where Rack magic is happening when I develop my 
 next application. 
 
+
+# RUN:
+in the root folder in the terminal type: `rackup`
+
 best, 
 Arnold
